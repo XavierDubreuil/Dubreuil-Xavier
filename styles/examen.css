@@ -1,0 +1,112 @@
+.murNoir
+{
+    margin:40px;
+    background-color: black;
+    border:5px solid white;
+    border-radius:5px;
+}
+.boîte
+{
+    border:5px solid white;
+}
+.murBlanc
+{
+    background-color:white;
+    font-size:2em;
+    padding:35px;
+    font-family:Arial;
+    color:gray;
+}
+h1
+{
+    color:white;
+    font-size:5em;
+    font-family:Georgia;
+    padding-left: 30px;
+}
+.grille
+{
+    display:grid;
+    grid-template-columns:25% 50% 25%;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.menu
+{
+    background-color:white;
+    border:2px solid white;
+    border-radius:50px;
+    font-family:Arial;
+    padding-left:10px;
+    padding-top:20px;
+    padding-bottom:20px;
+    font-size:1.5em;
+    margin-bottom:20px;
+}
+.photo
+{
+    float: right;
+    width: 275px;
+    height: 150px;
+    border:1px solid white;
+    margin-left:10px;
+    
+}
+.choix
+{
+    color:white;
+    font-size:1.5em;
+    font-family:Arial;
+    margin-left:10px;
+}
+span
+{
+    color:white;
+    font-size:1.5em;
+}
+.Calories
+{
+    border:1px solid white;
+    color:white;
+    font-family:Arial;
+    font-size:1.5em;
+    padding:10px;
+}
+.PoliceArialBlanc
+{
+    color:white;
+    font-size:1em;
+    font-family:Arial;
+}
+.PoliceArialNoir
+{
+    font-size:1em;
+    font-family:Arial;
+}
+.BordureTablePrincipale
+{
+    border:3px solid white;
+    margin-right:30%;
+    margin-left:40%;
+    margin-bottom:5%;
+    border-collapse: collapse;
+}
+.tableBlanc
+{
+    background-color:white;
+}
+.borduremince
+{
+    border-right:1px solid white;
+    border-bottom:1px solid white;
+    color:white;
+    font-size:1.5em;
+    font-family:Arial;
+}
+.bordurebas
+{
+    border-bottom:1px solid white;
+    color:white;
+    font-size:1.5em;
+    font-family:Arial;
+}
